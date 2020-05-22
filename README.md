@@ -66,3 +66,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### Working
+
+![Image of Web App](https://github.com/AshWiz1/SortingVisualizer/blob/master/tutorialImages/SortingVisualizer.png)
+
+### Instructions : 
+*  Select the desired algorithm from the `dropdown list`.
+*  Click `generate Array` to get different random Array of sticks
+*  The `two dialers` can be used to set the animation speed and Size of Array
